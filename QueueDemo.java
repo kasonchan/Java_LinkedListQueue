@@ -6,6 +6,7 @@
  * Description: This file is a demo of the Queue and Node classes.
  */ 
 
+import Queue.*;
 import java.util.Scanner;
 
 public class QueueDemo {
